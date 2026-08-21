@@ -1,4 +1,4 @@
-# Symphytum-2
+# Symphytum
 
 Ver en: "https://localhost:8300"
 
