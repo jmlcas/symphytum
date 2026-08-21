@@ -1,6 +1,6 @@
 # Symphytum
 
-![Alt text](https://github.com/jmlcas/Nombre_app/blob/main/Screenshot_1.png)
+![Alt text](https://github.com/jmlcas/Nombre_app/blob/main/Symphytum_64.png)
 
 Ver en: "https://localhost:8300"
 
